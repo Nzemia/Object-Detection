@@ -1,0 +1,5 @@
+# Ignore PyCharm's .idea folder
+.idea/
+Videos/
+Yolo-Weights/
+
